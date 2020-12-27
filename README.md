@@ -1,5 +1,6 @@
 # PeriodicTableOfElements
 C语言元素周期表
+视频地址：https://www.bilibili.com/video/BV1WW411E7PW
 
 程序主要功能简介
 
